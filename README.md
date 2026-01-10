@@ -1,28 +1,100 @@
 <h1 align="center">Hi 👋, I'm Rajyavardhan Singh Rathore</h1>
-<h3 align="center">ECE Undergrad || Full Stack Web development || AI & ML Enthusiast || Robotics</h3>
+<h3 align="center">Full Stack Web Development || AI - ML Enthusiast || Robotics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reocodes-51&label=Profile%20views&color=0e75b6&style=flat" alt="reocodes-51" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reocodes-51" alt="reocodes-51" /></a> </p>
-
-- I am an engineering student passionate about building **real-world solutions** by combining  
-**hardware + software + intelligence**.
-
-- I enjoy working on **web-based platform, robotics systems, IoT projects** and exploring how  
-**AI & Machine Learning** can enhance automation and decision-making.  
-I strongly believe in **learning by building**
-
-- 📫 How to reach me **pinsubanna5@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mr_pinsu_rk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_pinsu_rk" height="30" width="40" /></a>
+<p align="center">
+<span><a href="https://github.com/reocodes-51"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"></a></span><span><a href="https://linkedin.com/in/rajyavardhan-singh-rathore"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a></span><span><a href="mailto:pinsubanna5@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"></a></span>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reocodes-51&show_icons=true&locale=en&layout=compact" alt="reocodes-51" /></p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reocodes-51&show_icons=true&locale=en" alt="reocodes-51" /></p>
+- I am an ECE student at **IIIT Jabalpur** with a strong inclination towards building **practical, real-world solutions** using software and engineering principles.
+- Focused on **web development**  to create scalable and user-centric applications.  
+- Exploring **Artificial Intelligence & Machine Learning** for data-driven automation and intelligent systems.  
+- Strong interest in **robotics** , applying theory to functional implementations.  
+- Continuously strengthening problem-solving skills through **Data Structures & Algorithms**, emphasizing efficient and optimized code.  
 
+
+---
+
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript"/>
+</p>
+
+---
+
+## Web Development
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+</p>
+
+
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+</p>  
+
+
+---
+
+## Artificial Intelligence & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv"/>
+</p>
+
+**Libraries & Tools:**  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- TensorFlow  
+- Jupyter Notebook  
+- OpenCV  
+- Google Colab  
+
+
+---
+
+## Development Tools & Technical Utilities
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,arduino,matlab"/>
+</p>
+
+- Version control & collaboration  
+- Debugging & testing  
+- Development environments  
+- UI/UX design & prototyping  
+- Embedded system prototyping  
+- Engineering computation & analysis  
+
+
+**Additional Tools:**  
+- PSpice  
+- SolidWorks  
+- Tinkercad  
+- Circuit and system simulation software  
+
+---
+
+## Connect With Me 
+
+<p align="left">
+<span><a href="mailto:pinsubanna5@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a></span>
+<span><a href="https://www.linkedin.com/in/rajyavardhan-singh-rathore-926a44323" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a></span>
+<span><a href="https://www.instagram.com/mr_pinsu_rk" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"></a></span>
+</p>
+
+
+  
+
+---
+
+<p align="center">
+Focused on continuous learning and building solutions that address real-world challenges
+</p>
