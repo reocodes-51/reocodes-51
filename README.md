@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rajyavardhan Singh Rathore</h1>
-<h3 align="center">AI - ML Enthusiast || ECE Undergrad || Robotics</h3>
+<h3 align="center">ECE Undergrad || Full Stack Web development || AI & ML Enthusiast || Robotics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reocodes-51&label=Profile%20views&color=0e75b6&style=flat" alt="reocodes-51" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reocodes-51" alt="reocodes-51" /></a> </p>
 
-- 🌱 I’m currently learning **Python, AI-ML ,C++ , CyberSecurity**
+- I am an engineering student passionate about building **real-world solutions** by combining  
+**hardware + software + intelligence**.
+
+- I enjoy working on **web-based platform, robotics systems, IoT projects** and exploring how  
+**AI & Machine Learning** can enhance automation and decision-making.  
+I strongly believe in **learning by building**
 
 - 📫 How to reach me **pinsubanna5@gmail.com**
 
