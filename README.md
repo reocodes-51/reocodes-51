@@ -77,7 +77,8 @@
 **Additional Tools:**  
 - PSpice  
 - SolidWorks  
-- Tinkercad  
+- Tinkercad
+- Lab View
 - Circuit and system simulation software  
 
 ---
