@@ -94,9 +94,7 @@
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=reocodes-51&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=reocodes-51&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -133,10 +131,6 @@
 
 <a href="https://instagram.com/mr_pinsu_rk">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/reocodes-51">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
