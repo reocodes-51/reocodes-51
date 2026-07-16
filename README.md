@@ -20,7 +20,7 @@
 - Continuously improving **Data Structures & Algorithms**
 - Active Hackathon Participant & Real-World Project Builder
 - Currently learning **System Design**, **Cloud Computing**, **Backend Architecture**, and **Advanced DSA**
-- **3★ @ CodeChef** ( Max Rating - 1621 ) , **Pupil @ Codeforces** ( Max Rating - 1238 ) , **300+ DSA problems solved** across **LeetCode, Codeforces, and CodeChef**
+- **3★ @ CodeChef** ( Max Rating - 1622 ) , **Pupil @ Codeforces** ( Max Rating - 1238 ) , **300+ DSA problems solved** across **LeetCode, Codeforces, and CodeChef**
 
 ## Tech Stack
 
